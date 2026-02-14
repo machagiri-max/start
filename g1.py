@@ -1,3 +1,3 @@
-print("hello")
-print("giri")
-print("sai")
+print("hello world")
+print("hari")
+print("sunny")
